@@ -29,3 +29,6 @@ Check out my [LICENSE](LICENSE) file for more info.
 
 ## Image (as a regular link)
 [Link to repo logo](./assets/logo.png)
+
+## Site
+[View My GitHub Pages Site](https://dustinnguyen012.github.io/user-page/)
